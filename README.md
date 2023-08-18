@@ -96,6 +96,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+
 
 ###
