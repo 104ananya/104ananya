@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **104ananya/104ananya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
