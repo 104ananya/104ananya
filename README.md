@@ -44,11 +44,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/104ananya/count.svg?"  />
+<!-- <img src"https://github.com/104ananya/104ananya/blob/main/Pikachu.gif" /> -->
+  
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<img align="right" height="150" src="https://github.com/104ananya/104ananya/blob/main/Pikachu.gif"  />
 
 ###
 
@@ -96,7 +99,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-![](https://github.com/104ananya/104ananya/blob/main/snake.yml)
+<img align="right" height="150" src="https://github.com/104ananya/104ananya/blob/main/Pikachu.gif"  />
+
 
 
 ###
