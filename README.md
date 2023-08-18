@@ -101,7 +101,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<img  src="https://github.com/104ananya/104ananya/blob/main/Gojo.gif"  />
+<div align="center">
+  <img  height="190" src="https://github.com/104ananya/104ananya/blob/main/Gojo.gif"  />
+
+</div>
 
 
 
