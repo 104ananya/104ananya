@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 <h2 align="left">and I'm a passionate Web Developer & ML Enthusiast.</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+<!--   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RkdGszbHhpZmJoNTMyaTFsMnM3dGdxczNiN2RvdmsxdmR6aWdkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TH3P9qP1XeC7h8vGTN/giphy.gif" width="150" height="150"  />
+<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR0bXB5bjN3Y2djc3JyY3Z4MWk4YWwyNm5oaWljdmxwbW56eTZpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mONNGIRFkVe4q1Hl3X/giphy.gif" width="150" height="150" />  -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExand1ZzVzcDB6YmZxbDdzaXY2eHN0cHF5ZGl2OTJhbHp6YTI2MGVudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LfCZ95mmk0MFqx40t8/giphy.gif" width="150" height="150" />
+<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t1YnVrcmdpZmNmNjd5bHh1NGd3MThtdWVyNTcyOWt1cmUyemV4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n45jdZGJPlK94lzpww/giphy.gif" width="150" height="150" /> -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY4ZTAzMXN0eHFxaXI1eTY5Z3BmZ2p4NWlsY2dwY2xuaHd2dHowYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/laC28bmdvuHD4DsbMV/giphy.gif" width="150" height="150" />
+<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN6ZjUzamNxdDN1eHZsMDJmMmszcjN6bm9zamJiMDRrMmZ6dmlzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3NF3JvE1mOsOXb8l3/giphy.gif" width="150" height="150"  /> -->
 </div>
 
 ###
@@ -127,12 +131,14 @@ Here are some ideas to get you started:
 <div align="center" >
   
   ```
-  Cutie Counter (❁´◡`❁)
 
-  Hehe, another cutie has been caught stalking.
+  Lead me from the untruth to the Truth.
+  Lead me from darkness to light.
+  Lead me from death to immortality.
+              
 ```
   <!-- <img  height="190" src="https://github.com/104ananya/104ananya/blob/main/Gojo.gif"  /> -->
-  <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />  -->
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtyNDRzOGx3YXVpbG50dXN5dzBhaDZvdW4xcGh2a3lybmoxNDI1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HYGqS3Z57hpydHZAVa/giphy.gif"  />
 
 </div>
 
