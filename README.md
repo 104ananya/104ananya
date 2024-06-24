@@ -41,7 +41,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h4>📫  How to reach me: <a href = "ananya1729b@gmail.com"> ananya1729b@gmail.com </a> </h4>
+<p>😄 I have worked on: Web Development/Frontend and ML projects </p>
+<p>🌱 I’m currently learning: Backend Development concepts</p>
+<p>👯 I’m looking to collaborate on: Fullstack projects</p>
+<p>📫  How to reach me: <a href = "ananya1729b@gmail.com"> ananya1729b@gmail.com </a> </p>
+
 <div align="center">
   <h4 align="left">Connect with me:</h4>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -70,7 +74,8 @@ Here are some ideas to get you started:
 ###
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<img align="right" height="150" src="https://github.com/104ananya/104ananya/blob/main/Pikachu.gif"  />
+<!-- <img align="right" height="150" src="https://github.com/104ananya/104ananya/blob/main/Pikachu.gif"  /> -->
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtyNDRzOGx3YXVpbG50dXN5dzBhaDZvdW4xcGh2a3lybmoxNDI1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HYGqS3Z57hpydHZAVa/giphy.gif"  />
 
 ###
 
@@ -148,6 +153,6 @@ Here are some ideas to get you started:
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
 </a>
 
-  <img  height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtyNDRzOGx3YXVpbG50dXN5dzBhaDZvdW4xcGh2a3lybmoxNDI1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HYGqS3Z57hpydHZAVa/giphy.gif"  />
+<!-- <img  height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtyNDRzOGx3YXVpbG50dXN5dzBhaDZvdW4xcGh2a3lybmoxNDI1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HYGqS3Z57hpydHZAVa/giphy.gif"/> --> 
 
 </div>
