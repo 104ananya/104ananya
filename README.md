@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi  👋<br>My name is Ananya</h1>
+<h1 align="left">Hi  👋<br>I'm Ananya</h1>
 
 ###
 
