@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi  👋<br>I'm Ananya</h1>
+<h1 align="left">Hi  👋<br>My name is Ananya</h1>
 
 ###
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=104ananya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=104ananya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -36,13 +37,21 @@ Here are some ideas to get you started:
 
 ###
 
+<h4>📫  How to reach me: <a href = "ananya1729b@gmail.com"> ananya1729b@gmail.com </a> </h4>
 <div align="center">
+  <h4 align="left">Connect with me:</h4>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/104ananya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/ananya1729" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+    <a href="https://leetcode.com/u/ananya1729/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=F89F1B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/kurisu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=coding ninjas&logo=codingninjas&label=&color=5780e9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
 
@@ -101,6 +110,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+<p align="center">
+<a href="https://github.com/104ananya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=104ananya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aragorn-64&layout=compact&langs_count=8&theme=algolia"/> -->
+</a>
+</p>
+
+
 ###
 
 <br clear="both">
@@ -114,7 +131,8 @@ Here are some ideas to get you started:
 
   Hehe, another cutie has been caught stalking.
 ```
-  <img  height="190" src="https://github.com/104ananya/104ananya/blob/main/Gojo.gif"  />
+  <!-- <img  height="190" src="https://github.com/104ananya/104ananya/blob/main/Gojo.gif"  /> -->
+  <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />  -->
 
 </div>
 
