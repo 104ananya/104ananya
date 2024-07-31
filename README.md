@@ -48,7 +48,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h4 align="left">Connect with me:</h4>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  
+<!--     <a href="https://www.linkedin.com/in/104ananya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a> -->
+  
   <a href="https://www.linkedin.com/in/104ananya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -59,8 +63,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=F89F1B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
   <a href="https://www.naukri.com/code360/profile/kurisu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=coding ninjas&logo=codingninjas&label=&color=5780e9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=coding ninjas&logo=codingninjas&label=&color=5780e9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="coding ninja logo"  />
   </a>
+<!--     <a href="https://www.naukri.com/code360/profile/kurisu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=codechef&logo=codechef&label=&color=E1D8C0&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+  </a>
+    <a href="https://www.naukri.com/code360/profile/kurisu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=codeforces&logo=codeforces&label=&color=B41F25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  />
+  </a> -->
 </div>
 
 ###
